@@ -1,0 +1,10 @@
+.content {
+  justify-content: flex-start;
+  align-items: flex-start;
+  height: 100vh;
+  padding: 10px;
+}
+
+#root {
+  width: 100%;
+}
